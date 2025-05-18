@@ -67,4 +67,4 @@ Free for personal use. All rights reserved by NTWind Software.
 ## 📋 Clipboard Remote
 
 [![Download ClipboardRemote](https://img.shields.io/badge/Download-ClipboardRemote-blueviolet?style=for-the-badge&logo=windows)](ClipboardRemote_1.0.3-win-x64.exe)
-
+Any quary please ask for my email id 
